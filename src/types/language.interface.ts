@@ -1,0 +1,17 @@
+export enum LANGUAGE {
+    SIMPLIFIED_CHINESE = "zh-cn",
+    TRADIIONAL_CHINESE = "zh-tw",
+    GERMAN = "de-de",
+    SPANISH = "es-es",
+    FRENCH = "fr-fr",
+    INDONESIAN = "id-id",
+    ITALIAN = "it-it",
+    JAPANESE = "ja-jp",
+    KOREAN = "ko-kr",
+    PORTUGUESE = "pt-pt",
+    RUSSIAN = "ru-ru",
+    THAI = "th-th",
+    TURKISH = "tr-tr",
+    ENGLISH = "en-us",
+    VIETNAMESE = "vi-vn",
+}

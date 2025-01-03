@@ -1,0 +1,19 @@
+{
+    "name": "hoyolabjs",
+    "version": "1.0.0",
+    "description": "",
+    "license": "ISC",
+    "author": "Asaki Yuki",
+    "type": "commonjs",
+    "main": "dist/index.js",
+    "scripts": {
+        "dev": "npx tsc -w",
+        "build": "npx tsc"
+    },
+    "dependencies": {
+        "crypto": "^1.0.1"
+    },
+    "devDependencies": {
+        "@types/node": "^22.10.2"
+    }
+}
